@@ -26,6 +26,7 @@ This project aims to monitor the fill levels of trash bins using IoT technology.
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/scheme.png" width="400"/> 
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/circuit.png" width="300"/> 
 </p>
+
 **Technologies**
 <p align="center">
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/mcu.png" width="300"/> 
