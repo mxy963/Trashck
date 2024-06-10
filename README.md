@@ -37,4 +37,4 @@ This project aims to monitor the fill levels of trash bins using IoT technology.
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/trashck.git
+   git clone https://github.com/mxy963/Trashck.git
