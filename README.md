@@ -1,16 +1,14 @@
 # Trashck
 <h2> Scheme and Circuit </h2>
 <img src="https://github.com/mxy963/Trashck/blob/main/Photos/scheme.png">
-<img src="https://github.com/mxy963/Trashck/blob/main/Photos/circuit.png">
-===
+<img src="https://github.com/mxy963/Trashck/blob/main/Photos/circuit.png"> 
 <h2> Devices </h2>
 <h3> Node Mcu </h3>
 <img src="https://github.com/mxy963/Trashck/blob/main/Photos/mcu.png">
 <h3> Ultrasonic Sensor </h3>
 <img src="https://github.com/mxy963/Trashck/blob/main/Photos/ultrasonic.png">
 <h3> Leds </h3>
-<img src="https://github.com/mxy963/Trashck/blob/main/Photos/leds.png">
------
+<img src="https://github.com/mxy963/Trashck/blob/main/Photos/leds.png"> 
 **Objective:** To monitor the fill levels of trash bins to optimize cleaning services and achieve more efficient waste management.
 
 **Technologies:** ESP8266 WiFi Module, Ultrasonic Sensor (HC-SR04), NodeMCU, mDNS, Web Server
