@@ -21,12 +21,12 @@ To monitor the fill levels of trash bins to optimize cleaning services and achie
 This project aims to monitor the fill levels of trash bins using IoT technology. The ultrasonic sensor (HC-SR04) measures the distance inside the trash bin, and this data is transmitted to a web server via the ESP8266 module. The web server allows users to check the fill status of the trash bin from any device at any time. LED indicators provide visual alerts on-site, enabling quick response based on the fill level. This system makes trash collection operations more efficient and enhances environmental cleanliness.
 
 ## Photos
-Scheme and Circuit
+**Scheme and Circuit
 <p align="center">
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/scheme.png" width="400"/> 
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/circuit.png" width="300"/> 
 </p>
-Technologies 
+**Technologies 
 <p align="center">
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/mcu.png" width="300"/> 
   <img src="https://github.com/mxy963/Trashck/blob/main/Photos/ultrasonic.png" width="300"/> 
